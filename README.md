@@ -16,7 +16,7 @@
   Degree : B.S. Electrical Engineering  (Anticipated May 2028)
   Focus  : Digital Logic · Embedded Systems · Circuit Design
   Email  : Gazi_Daniyal@student.uml.edu
-  Loc    : Worcester, MA
+  Loc    : Lowell, MA
 ```
 
 I'm an Electrical Engineering student passionate about digital systems and hardware design. From breadboard testing to Quartus simulations, I enjoy turning logic into working circuits.
