@@ -57,26 +57,33 @@ Designed and simulated a complete series of arithmetic circuits in **Quartus Pri
 
 ---
 
-### 💡 Light-Dependent Control with Photoresistors & Transistors
-> *Intro to ECE — November 2024*
+### ☀️ DIY Solar-Powered Phone Charger *(In Progress)*
+> *Personal Project — 2026*
 
-Built a light-sensitive circuit using photoresistors and transistors to control LED brightness automatically based on ambient light.
+Building a portable solar-powered charging circuit from scratch — harvesting energy from a solar panel, regulating it to a stable 5V USB output, and safely charging a phone.
 
-- 🔹 Measured voltage response of photoresistor using ADI Discovery Module scopes
-- 🔹 Integrated photoresistor as analog input to modulate LED brightness
-- 🔹 Transistor-based circuit amplified and controlled LED current via base voltage
-- 🔹 Programmed an **automatic night light** system (LED on/off based on light)
+- 🔹 Selecting and testing a solar panel for sufficient current output
+- 🔹 Designing a voltage regulator circuit to step down and stabilize output to 5V
+- 🔹 Integrating a battery (Li-ion) for energy storage when sunlight is unavailable
+- 🔹 Adding overcharge protection circuitry to safeguard the battery
+- 🔹 Testing charging efficiency and output stability with a multimeter
+
+> 🚧 *Currently under construction — repo coming soon!*
 
 ---
 
-### 🏠 Residential Electrical Wiring
-> *High School Project — August 2023 – April 2024 · Worcester, MA*
+### 🖥️ Raspberry Pi Pico Embedded Systems *(Upcoming)*
+> *Personal Project — 2026*
 
-Hands-on residential wiring project simulating a real home electrical installation.
+Planning a series of embedded systems mini-projects using the **Raspberry Pi Pico** (RP2040 microcontroller) with various electronic components — bridging hardware and software in MicroPython.
 
-- 🔹 Interpreted electrical blueprints and planned full wiring layout
-- 🔹 Installed outlets, switches, fixtures following safety standards
-- 🔹 Troubleshot circuit connections and collaborated on functionality checks
+- 🔹 GPIO control — LEDs, buttons, and digital I/O interfacing
+- 🔹 PWM signal generation — servo motor control and LED dimming
+- 🔹 I2C/SPI communication — interfacing sensors (temperature, distance, OLED display)
+- 🔹 ADC input — reading analog sensors (potentiometer, LDR, thermistor)
+- 🔹 Building a standalone weather station with sensor data displayed on an OLED screen
+
+> 🔜 *Starting soon — follow this profile for updates!*
 
 ---
 
