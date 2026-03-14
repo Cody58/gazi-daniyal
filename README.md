@@ -53,7 +53,7 @@ Designed and simulated a complete series of arithmetic circuits in **Quartus Pri
 - 🔹 8-bit Ripple-Carry Adder — built using modular block chaining
 - 🔹 All circuits verified via waveform simulation
 
-[![View Project](https://img.shields.io/badge/View_Project-00e5c0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gazi-daniyal/arithmetic-circuit-design)
+[![View Project](https://img.shields.io/badge/View_Project-00e5c0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Cody58/gazi-daniyal/blob/main/Logic%20design%20Project%204.pdf)
 
 ---
 
